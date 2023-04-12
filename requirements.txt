@@ -1,0 +1,8 @@
+importlib-metadata==6.3.0
+packaging==23.1
+pnio-dcp @ file: https://gitlab.com/pyshacks/pnio_dcp
+psutil==5.9.4
+setuptools-scm==7.1.0
+tomli==2.0.1
+typing_extensions==4.5.0
+zipp==3.15.0
